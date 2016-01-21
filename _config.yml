@@ -1,28 +1,40 @@
-name: Michael Gotzen
 favicon: null
-layout_spectrum: 0.26058402843773365
-typography_spectrum: 0.5159390547778457
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Michael Gotzen
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.6647551651112735
-  lightness: 0.10499001806601882
-  saturation: 0.49345869524404407
-  rhythmicContrast: 0.9138439702801406
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.4934586952440441
+  brandStrength: 0.6647551651112735
+  lightness: 0.1049900180660188
+  brandColors:
+    - '#01B3F4'
+    - '#1F3138'
+    - '#91BDCF'
+    - '#4177A4'
+    - '#882F38'
+  rhythmicContrast: 0.9138439702801406
+typography_spectrum: 0.2329749
+layout_spectrum: 0
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
