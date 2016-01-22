@@ -1,5 +1,4 @@
-favicon: null
-name: Michael Gotzen
+layout_spectrum: 0
 opengraph:
   image: null
   type: null
@@ -19,8 +18,8 @@ collections:
 purpose: []
 color:
   saturation: 0.4934586952440441
-  brandStrength: 1
   lightness: 0.1049900180660188
+  brandStrength: 0.8369176
   brandColors:
     - '#01B3F4'
     - '#1F3138'
@@ -33,8 +32,9 @@ cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: Michael Gotzen
