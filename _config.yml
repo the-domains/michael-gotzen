@@ -1,8 +1,7 @@
+name: Michael Gotzen
+favicon: null
 layout_spectrum: 0
-opengraph:
-  image: null
-  type: null
-  appId: null
+typography_spectrum: 0.2329749
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4934586952440441
-  lightness: 0.1049900180660188
-  brandStrength: 0.8369176
   brandColors:
     - '#01B3F4'
     - '#1F3138'
     - '#91BDCF'
     - '#4177A4'
     - '#882F38'
+  brandStrength: 0.8369176
+  lightness: 0.1049900180660188
+  saturation: 0.4934586952440441
   rhythmicContrast: 0.9138439702801406
-typography_spectrum: 0.2329749
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Michael Gotzen
+purpose: []
